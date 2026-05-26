@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperencrypt",
+        "uuid": 868856,
+        "checksum": "yg4vqi"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
